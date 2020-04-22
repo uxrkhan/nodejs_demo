@@ -1,4 +1,4 @@
-# NODE.JS DEMO
+# Node.js Demo
 
 ## WHY USE NODE?
 
